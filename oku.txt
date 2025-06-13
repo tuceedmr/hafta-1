@@ -1,3 +1,6 @@
 1. Hafta
 
-Bu hafta betik dilleri dersine giriş yaptık. GitHub’a nasıl kod yükleneceğini öğrendik. Basit bir print komutuyla ekrana yazı yazdırdım ve sistemi test ettim.
+Bu hafta betik dilleri dersine giriş yaptık.  
+GitHub’a nasıl kod yükleneceğini öğrendik.  
+Python dilinde basit bir print komutu yazarak ekrana yazı yazdırdım.  
+Kodlama ortamı ve GitHub sistemi test edildi.
