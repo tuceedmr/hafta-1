@@ -1,9 +1,4 @@
 Hafta 1 Log:
 
-Derse giriş yapıldı. Git ve GitHub kullanımı hakkında temel bilgiler öğrenildi. 
-Kod yazma ve GitHub'a yükleme pratiği yapıldı.
-
-Yapılan uygulama:
-- Python dilinde basit bir `print()` komutu kullanılarak ekrana yazı yazdırıldı.
-- GitHub'a dosya yükleme işlemi test edildi.
-- Geliştirme ortamı başarıyla kuruldu ve çalıştırıldı.
+Python ile basit bir print komutu yazıldı.  
+GitHub’a dosya yükleme işlemi denendi ve sistem test edildi.
