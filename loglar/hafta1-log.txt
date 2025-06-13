@@ -1,3 +1,9 @@
-1. Hafta
+Hafta 1 Log:
 
-Bu hafta betik dilleri dersine giriş yaptık. GitHub’a nasıl kod yükleneceğini öğrendik. Basit bir print komutuyla ekrana yazı yazdırdım ve sistemi test ettim.
+Derse giriş yapıldı. Git ve GitHub kullanımı hakkında temel bilgiler öğrenildi. 
+Kod yazma ve GitHub'a yükleme pratiği yapıldı.
+
+Yapılan uygulama:
+- Python dilinde basit bir `print()` komutu kullanılarak ekrana yazı yazdırıldı.
+- GitHub'a dosya yükleme işlemi test edildi.
+- Geliştirme ortamı başarıyla kuruldu ve çalıştırıldı.
